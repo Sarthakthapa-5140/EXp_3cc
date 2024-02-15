@@ -1,2 +1,2 @@
-print("sarthak thapa")
-print("21bcs2826")
+print('sarthak thapa')
+print('21bcs2826')
